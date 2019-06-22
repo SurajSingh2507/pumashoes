@@ -1,0 +1,223 @@
+body {
+  font-family: Montserrat;
+}
+
+.search-box{
+  position: absolute;
+  top: 50%;
+  left:50%;
+  height: 40px;
+  background: #2f3640;
+  border-radius: 100px;
+}
+.search-btn{
+  color: #e84118;
+  float: right;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  background: #2f3640;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.search-text{
+  border: none;
+  background: none;
+  outline: none;
+  float: left;
+  padding: 0;
+  color: white;
+  font-size: 16px;
+  transition: 0.4s;
+  line-height: 40px;
+  width: 240px;
+}
+.search-box:hover > .search-btn{
+  background: white;
+}
+
+.signup{
+
+background-color: #ac8daf;
+text-align: center;
+padding: 7% 15%;
+
+
+}
+
+.nhi{
+  color: black;
+
+}
+.bold{
+  font-size: 19px;
+
+}
+
+#title {
+  background-color: #484c7f;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat-black"
+    font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-Bold"
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/*Navigation Bar*/
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-light;
+}
+
+/*download button*/
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {}
+
+/*--features section--*/
+#features {
+  padding: 7% 15%;
+  background-color: #ac8daf;
+  color: white;
+}
+.vaish{
+  color: black;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%
+
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/*--press--*/
+#press {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+  }
+
+.haha{
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/*--shipping--*/
+#shipping {
+  background-color: #ddb6c6;
+  text-align: center;
+  padding: 7% 15%;
+  color: #fff;
+}
+
+
+
+/*--testimonial--*/
+#testimonial{
+  background-color: #bb7171;
+  text-align: center;
+  padding: 7% 15%;
+
+}
+.jug{
+  color: black;
+}
+
+.mama{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/*--logos--*/
+#logos{
+  background-color: #000;
+  text-align: center;
+  padding-bottom: 3%
+}
+
+.jaa{
+  width: 15%
+  margin: 20px 20px 50px;
+}
+
+/**pricing--*/
+
+#pricing{
+  padding: 7% 15%;
+ background-color: #f4f4f4;
+ text-align: center;
+
+}
+/***mail**/
+.mail{
+  text-align: center;
+  padding: 7% 15%;
+  background-color:  #484c7f;
+  margin: 15px 40px 0 49px;
+
+
+}
+
+#bottle{
+  background-color: #484c7f;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.book1{
+  padding-left:20%;
+  padding-right: 20%;
+  color: blue;
+}
+book{
+  color: red;
+}
+book2{
+  color: white;
+}
